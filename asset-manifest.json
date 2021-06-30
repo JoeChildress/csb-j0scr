@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://joechildress.github.io/csb-j0scr/static/css/main.d338f100.chunk.css",
+    "main.js": "https://joechildress.github.io/csb-j0scr/static/js/main.13a65715.chunk.js",
+    "main.js.map": "https://joechildress.github.io/csb-j0scr/static/js/main.13a65715.chunk.js.map",
+    "runtime-main.js": "https://joechildress.github.io/csb-j0scr/static/js/runtime-main.da130494.js",
+    "runtime-main.js.map": "https://joechildress.github.io/csb-j0scr/static/js/runtime-main.da130494.js.map",
+    "static/js/2.4c6d5f19.chunk.js": "https://joechildress.github.io/csb-j0scr/static/js/2.4c6d5f19.chunk.js",
+    "static/js/2.4c6d5f19.chunk.js.map": "https://joechildress.github.io/csb-j0scr/static/js/2.4c6d5f19.chunk.js.map",
+    "index.html": "https://joechildress.github.io/csb-j0scr/index.html",
+    "static/css/main.d338f100.chunk.css.map": "https://joechildress.github.io/csb-j0scr/static/css/main.d338f100.chunk.css.map",
+    "static/js/2.4c6d5f19.chunk.js.LICENSE.txt": "https://joechildress.github.io/csb-j0scr/static/js/2.4c6d5f19.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da130494.js",
+    "static/js/2.4c6d5f19.chunk.js",
+    "static/css/main.d338f100.chunk.css",
+    "static/js/main.13a65715.chunk.js"
+  ]
+}
